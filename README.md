@@ -59,9 +59,3 @@ Este projeto consiste em um conjunto de APIs RESTful para gerenciar serviços ve
 4. Use o ID retornado da pessoa para cadastrar um animal via POST em `/animais` incluindo o campo `pessoaId`.
 5. Para registrar um serviço, faça um POST para `/servicos` enviando o tipo do serviço, data, valor, status e o `animalId`.
 6. Utilize os métodos GET para consultar os registros cadastrados em cada API.
-
-Siga essa ordem para garantir que as relações entre pessoas, animais e serviços sejam respeitadas.
-
----
-
-Se precisar de exemplos JSON para os payloads ou um arquivo Postman Collection com os testes prontos, posso fornecer.
