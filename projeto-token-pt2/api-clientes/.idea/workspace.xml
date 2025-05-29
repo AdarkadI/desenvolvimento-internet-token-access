@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a43e97a6-ccb8-40a5-b1f5-6251fe11dae7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AuthService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ClienteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ClienteRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LoginDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-produtos/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-produtos/src/main/java/org/example/AuthService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-produtos/src/main/java/org/example/LoginDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-produtos/src/main/java/org/example/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-produtos/src/main/java/org/example/ProdutoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-produtos/src/main/java/org/example/ProdutoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-produtos/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../api-chave-acesso/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-chave-acesso/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api-produtos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-produtos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api-produtos/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-produtos/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api-produtos/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api-produtos/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
